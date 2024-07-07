@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamed-naguib-192216286/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamednageb20172@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Naguib22)
 
 ## About me
 - Graduated from Helwan University, Cairo.
@@ -14,3 +14,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Naguib22&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Naguib22&layout=compact&theme=radical)
+
+![](https://github-contributor-stats.vercel.app/api?username=Mohamed-Naguib22&limit=5&theme=radical&combine_all_yearly_contributions=true)
