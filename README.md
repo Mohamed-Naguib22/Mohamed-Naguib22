@@ -14,5 +14,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Naguib22&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Naguib22&layout=compact&theme=radical)
-
-![](https://github-contributor-stats.vercel.app/api?username=Mohamed-Naguib22&limit=5&theme=radical&combine_all_yearly_contributions=true)
