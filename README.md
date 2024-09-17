@@ -12,5 +12,5 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Naguib22&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Naguib22&theme=radical)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Naguib22)](https://github.com/Mohamed-Naguib22)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Naguib22&layout=compact&theme=radical)
