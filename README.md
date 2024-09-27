@@ -7,7 +7,7 @@
 
 ## About me
 - Graduated from Helwan University, Cairo.
-- .NET Developer at [Misr University for Science and Technology](https://must.edu.eg/).
+- Software Engineer at [Misr University for Science and Technology](https://must.edu.eg/).
   
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Naguib22&show_icons=true&theme=radical)
 
