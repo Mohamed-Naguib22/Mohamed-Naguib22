@@ -12,6 +12,8 @@
 💼 **Software Engineer** | **Backend Developer (.NET)** | **Mobile Developer (Flutter)**  
 🎓 Graduated from **Helwan University, Cairo**  
 🚀 Currently working as a **Software Engineer at [Misr University for Science and Technology](https://must.edu.eg/)**  
+🔍 Focused on building **well-structured, maintainable, and scalable software solutions**.  
+⚡ Passionate about **designing reliable systems, improving performance, and solving complex problems**.  
 
 ---
 
