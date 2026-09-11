@@ -50,13 +50,5 @@ I care about writing code that's clean, maintainable, and built to scale — and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Naguib22&theme=radical&hide_border=true)
-
 </div>
 </div>
